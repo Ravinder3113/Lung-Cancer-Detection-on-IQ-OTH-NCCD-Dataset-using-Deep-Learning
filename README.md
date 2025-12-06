@@ -10,18 +10,6 @@ https://www.kaggle.com/datasets/adityamahimkar/iqothnccd-lung-cancer-dataset
 
 The dataset contains CT scan images categorized into multiple types of lung cancer as well as normal cases.
 
-## Project Structure
-
-DL_Project.ipynb
-README.md
-data/
-    train/
-    test/
-saved_models/
-    alexnet_lung_cancer.pth
-results/
-    loss_curve.png
-    accuracy_curve.png
 
 ## Installation
 
