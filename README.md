@@ -86,6 +86,3 @@ Possible extensions include:
 - Using 3D CNNs for volumetric CT scan analysis
 - Deploying the model using Flask or FastAPI
 
-## License
-
-This project is released under the MIT License.
